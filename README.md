@@ -105,9 +105,23 @@
 
 ## 📊 Projects · Projetos
 
-> 🚧 **EN** — Projects currently in development. Coming soon!
-> 
-> 🚧 **PT** — Projetos em desenvolvimento. Em breve!
+### 📈 [sales-funnel-analyzer](https://github.com/GhMarques-analytics/sales-funnel-analyzer)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
+
+**EN** — End-to-end analysis of an Outbound B2B sales funnel. Identifies conversion bottlenecks, best-performing channels, and ICP segments using Python and SQL.
+
+**PT** — Análise completa de um funil de vendas Outbound B2B. Identifica gargalos de conversão, melhores canais e segmentos do ICP utilizando Python e SQL.
+
+---
+
+> 🚧 **EN** — More projects coming soon!
+>
+> 🚧 **PT** — Mais projetos em breve!
 
 ---
 
